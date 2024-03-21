@@ -1,0 +1,21 @@
+Functions and variables
+
+In order to run programs in terminal: python <filename>.py
+Function = action/verb that lets you do something in the program.
+Programming languages have built in functions that it know how to do for you. e.g print()
+Arguments = input to a function that influences it's behaviour e.g the "hello, world" in print("hello, world")
+Return value = output of a function
+Variables = store a value in computer's memory
+The equals sign (=) is known as assignment, it assigns a value to a variable
+Can pass variables as arguments to functions
+Comments are notes to yourself in your code, in python you use #
+Can pass multiple arguments to certain functions by using commas to separate the arguments
+Parameters = what you CAN pass through a function
+Named parameters are optional parameters that you can pass to a function
+Backslash (\) is an escape character in the print function
+Format string formats stuff in a string in a special way but using {} in strings, e.g {name}
+Need to specify this in the argument of print, e.g print(f"hello, {name}")
+This will then pick up the variable and use it in the function
+There are methods belonging to each type in python, e.g strings have the .strip() method to strip whitespaces from either side of letters
+You can also chain methods together, e.g name = name.strip().title()
+[Stopped at 59:48]
